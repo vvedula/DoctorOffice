@@ -1,0 +1,240 @@
+
+Simulating WRN Patient interaction
+Enter Number of patients entering doctors office:
+Enter Number of Nurses(2-5):
+Enter Number of Exam Rooms(2-5):
+Enter Number of Doctors(2-3):
+Enter Number of XRay Technicians(1-2):
+Adult Patient:0 has entered the Doctor's Office Waiting Room.
+Adult Patient:1 has entered the Doctor's Office Waiting Room.
+Adult Patient:1 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:2 has entered the Doctor's Office Waiting Room.
+Adult Patient:2 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:3 has entered the Doctor's Office Waiting Room.
+Adult Patient:3 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:4 has entered the Doctor's Office Waiting Room.
+Adult Patient:4 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:5 has entered the Doctor's Office Waiting Room.
+Adult Patient:5 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:6 has entered the Doctor's Office Waiting Room.
+Adult Patient:6 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:7 has entered the Doctor's Office Waiting Room.
+Adult Patient:7 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:8 has entered the Doctor's Office Waiting Room.
+Adult Patient:8 gets in line of the Waiting Room Nurse to get registration form.
+Adult Patient:9 has entered the Doctor's Office Waiting Room.
+Adult Patient:9 gets in line of the Waiting Room Nurse to get registration form.
+WRN:Waiting Room nurse gives a form to Adult patient [0]
+WRN:Waiting Room nurse gives a form to Adult patient [1]
+WRN:Waiting Room nurse gives a form to Adult patient [2]
+WRN:Waiting Room nurse gives a form to Adult patient [3]
+WRN:Waiting Room nurse gives a form to Adult patient [4]
+WRN:Waiting Room nurse gives a form to Adult patient [5]
+Adult Patient:0 gets in line of the Waiting Room Nurse to submit registration form.
+WRN:Waiting Room nurse gives a form to Adult patient [6]
+Adult Patient:1 gets in line of the Waiting Room Nurse to submit registration form.
+WRN:Waiting Room nurse gives a form to Adult patient [7]
+Adult Patient:2 gets in line of the Waiting Room Nurse to submit registration form.
+WRN:Waiting Room nurse gives a form to Adult patient [8]
+Adult Patient:3 gets in line of the Waiting Room Nurse to submit registration form.
+WRN:Waiting Room nurse gives a form to Adult patient [9]
+Adult Patient:4 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [0] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [0] with name [ozepdkdnql] and age [54].
+Waiting Room nurse creates an examination sheet for [Adult] patient[0] with name [ozepdkdnql] and age [54].
+Waiting Room nurse tells the Adult Patient [0] to wait in the waiting room for a nurse
+Adult Patient:5 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [1] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [1] with name [fejdzksccf] and age [40].
+Waiting Room nurse creates an examination sheet for [Adult] patient[1] with name [fejdzksccf] and age [40].
+Waiting Room nurse tells the Adult Patient [1] to wait in the waiting room for a nurse
+Adult Patient:6 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [2] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [2] with name [kdxnlorwvf] and age [83].
+Waiting Room nurse creates an examination sheet for [Adult] patient[2] with name [kdxnlorwvf] and age [83].
+Waiting Room nurse tells the Adult Patient [2] to wait in the waiting room for a nurse
+Adult Patient:7 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [3] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [3] with name [avbmyqclxj] and age [69].
+Waiting Room nurse creates an examination sheet for [Adult] patient[3] with name [avbmyqclxj] and age [69].
+Waiting Room nurse tells the Adult Patient [3] to wait in the waiting room for a nurse
+Adult Patient:8 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [4] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [4] with name [gntqhvuowg] and age [8].
+Waiting Room nurse creates an examination sheet for [Adult] patient[4] with name [gntqhvuowg] and age [8].
+Waiting Room nurse tells the Adult Patient [4] to wait in the waiting room for a nurse
+Adult Patient:9 gets in line of the Waiting Room Nurse to submit registration form.
+Adult patient [5] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [5] with name [tufhnbdtzf] and age [52].
+Waiting Room nurse creates an examination sheet for [Adult] patient[5] with name [tufhnbdtzf] and age [52].
+Waiting Room nurse tells the Adult Patient [5] to wait in the waiting room for a nurse
+Adult patient [6] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [6] with name [atqryeqhxx] and age [41].
+Waiting Room nurse creates an examination sheet for [Adult] patient[6] with name [atqryeqhxx] and age [41].
+Waiting Room nurse tells the Adult Patient [6] to wait in the waiting room for a nurse
+Adult patient [7] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [7] with name [qpdmmsksjd] and age [95].
+Waiting Room nurse creates an examination sheet for [Adult] patient[7] with name [qpdmmsksjd] and age [95].
+Waiting Room nurse tells the Adult Patient [7] to wait in the waiting room for a nurse
+Adult patient [8] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [8] with name [oncssvrzns] and age [71].
+Waiting Room nurse creates an examination sheet for [Adult] patient[8] with name [oncssvrzns] and age [71].
+Waiting Room nurse tells the Adult Patient [8] to wait in the waiting room for a nurse
+Adult patient [9] submits the filled form to the Waiting Room Nurse.
+Waiting Room nurse accepts the form from Adult Patient [9] with name [flsjbahawx] and age [63].
+Waiting Room nurse creates an examination sheet for [Adult] patient[9] with name [flsjbahawx] and age [63].
+Waiting Room nurse tells the Adult Patient [9] to wait in the waiting room for a nurse
+Nurse [0] tells Waiting Room Nurse to give a new examination sheet.
+Waiting Room nurse gives examination sheet of patient[0] to Nurse[0]
+Nurse [0] escorts Adult Patient/Parent [0] to the examination room [0].
+Adult Patient/Parent [0] is following Nurse [0] to Examination Room [0].
+Nurse [1] tells Waiting Room Nurse to give a new examination sheet.
+Nurse:0 takes the temperature and blood pressure of Patient:0
+Nurse:0 asks Patient:0 "What Symptoms do you have?"
+Waiting Room nurse gives examination sheet of patient[1] to Nurse[1]
+Adult Patient/Parent [0] says, “My symptoms are Pain."
+Nurse [1] escorts Adult Patient/Parent [1] to the examination room [1].
+Nurse [0] informs Doctor [0] that Adult Patient [0] is waiting in the examination room [0].
+Nurse [0] hands over to the Doctor [0] the examination sheet of Adult Patient [0].
+Adult Patient/Parent [1] is following Nurse [1] to Examination Room [1].
+Doctor [0] is reading the examination sheet of [Adult] Patient [0] in Examination room [0].
+Doctor [0] diagnoses Adult Patient [0] to be fine and is leaving Examination Room [0].
+Adult Patient [0] has been diagnosed by Doctor [0].
+Nurse [2] tells Waiting Room Nurse to give a new examination sheet.
+Doctor [0] has left Examination Room [0].
+Doctor [0] is going to their office.
+Nurse:1 takes the temperature and blood pressure of Patient:1
+Nurse:1 asks Patient:1 "What Symptoms do you have?"
+Waiting Room nurse gives examination sheet of patient[2] to Nurse[2]
+Adult Patient/Parent [1] says, “My symptoms are Nausea."
+Nurse [2] escorts Adult Patient/Parent [2] to the examination room [2].
+Nurse [1] informs Doctor [1] that Adult Patient [1] is waiting in the examination room [1].
+Nurse [1] hands over to the Doctor [1] the examination sheet of Adult Patient [1].
+Adult Patient/Parent [2] is following Nurse [2] to Examination Room [2].
+Doctor [1] is reading the examination sheet of [Adult] Patient [1] in Examination room [1].
+Doctor [1] diagnoses Adult Patient [1] to be fine and is leaving Examination Room [1].
+Nurse [1] escorts Adult Patient [0] to Cashier.
+Adult Patient [1] has been diagnosed by Doctor [1].
+Adult Patient [0] enters the queue for Cashier
+Adult Patient [0] reaches the Cashier.
+Adult Patient [0] hands over his examination sheet to the Cashier.
+Doctor [1] has left Examination Room [1].
+Doctor [1] is going to their office.
+Nurse:2 takes the temperature and blood pressure of Patient:2
+Nurse:2 asks Patient:2 "What Symptoms do you have?"
+Cashier receives the examination sheet from Adult Patient [0].
+Cashier reads the examination sheet of Adult Patient [0] and asks him to pay $[904]
+Adult Patient/Parent [2] says, “My symptoms are Pain."
+Adult Patient [0] pays the Cashier $.... 
+Cashier accepts $[904] from Adult Patient [0].
+Cashier gives a receipt of $[904] to Adult Patient [0].
+Adult Patient [0] receives a receipt from the Cashier.
+Adult Patient [0] leaves the doctor's office.
+Nurse [2] escorts Adult Patient [1] to Cashier.
+Adult Patient [1] enters the queue for Cashier
+Nurse [0] tells Waiting Room Nurse to give a new examination sheet.
+Waiting Room nurse gives examination sheet of patient[3] to Nurse[0]
+Nurse [0] escorts Adult Patient/Parent [3] to the examination room [3].
+Adult Patient/Parent [3] is following Nurse [0] to Examination Room [3].
+Nurse:0 takes the temperature and blood pressure of Patient:3
+Nurse:0 asks Patient:3 "What Symptoms do you have?"
+Adult Patient/Parent [3] says, “My symptoms are Pain."
+Nurse [1] tells Waiting Room Nurse to give a new examination sheet.
+Waiting Room nurse gives examination sheet of patient[4] to Nurse[1]
+Nurse [0] informs Doctor [0] that Adult Patient [3] is waiting in the examination room [3].
+Nurse [0] hands over to the Doctor [0] the examination sheet of Adult Patient [3].
+Doctor [0] is reading the examination sheet of [Adult] Patient [3] in Examination room [3].
+Doctor [0] diagnoses Adult Patient [3] to be fine and is leaving Examination Room [3].
+Nurse [1] escorts Adult Patient/Parent [4] to the examination room [0].
+Adult Patient [3] has been diagnosed by Doctor [0].
+Adult Patient/Parent [4] is following Nurse [1] to Examination Room [0].
+Adult Patient [1] reaches the Cashier.
+Adult Patient [1] hands over his examination sheet to the Cashier.
+Doctor [0] has left Examination Room [3].
+Doctor [0] is going to their office.
+Cashier receives the examination sheet from Adult Patient [1].
+Cashier reads the examination sheet of Adult Patient [1] and asks him to pay $[291]
+Nurse [2] tells Waiting Room Nurse to give a new examination sheet.
+Adult Patient [1] pays the Cashier $.... 
+Nurse:1 takes the temperature and blood pressure of Patient:4
+Nurse:1 asks Patient:4 "What Symptoms do you have?"
+Waiting Room nurse gives examination sheet of patient[5] to Nurse[2]
+Cashier accepts $[291] from Adult Patient [1].
+Cashier gives a receipt of $[291] to Adult Patient [1].
+Adult Patient/Parent [4] says, “My symptoms are I Hear Alien Voices."
+Adult Patient [1] receives a receipt from the Cashier.
+Adult Patient [1] leaves the doctor's office.
+Nurse [2] escorts Adult Patient/Parent [5] to the examination room [1].
+Nurse [1] informs Doctor [1] that Adult Patient [4] is waiting in the examination room [0].
+Nurse [1] hands over to the Doctor [1] the examination sheet of Adult Patient [4].
+Adult Patient/Parent [5] is following Nurse [2] to Examination Room [1].
+Doctor [1] is reading the examination sheet of [Adult] Patient [4] in Examination room [0].
+Doctor [1] notes down in the sheet that Xray is needed for Adult Patient [4] in Examination room [0].
+Nurse [1] escorts Adult Patient [3] to Cashier.
+Adult Patient [4] has been informed by Doctor [1] that he needs an Xray.
+Adult Patient [3] enters the queue for Cashier
+Doctor [1] has left Examination Room [0].
+Doctor [1] is going to their office.
+Nurse:2 takes the temperature and blood pressure of Patient:5
+Nurse:2 asks Patient:5 "What Symptoms do you have?"
+Adult Patient/Parent [5] says, “My symptoms are Pain."
+Adult Patient [4] waits for a Nurse to escort them to the Xray room.
+Nurse [2] escorts Adult Patient [4] to the X-ray room [0].
+Nurse [2] informs X-Ray Technician [0] about Adult Patient[4] and hands over the examination sheet.
+Nurse [2] leaves the X-ray Room [0].
+Patient[4] has reached xRay Room [0]
+Xray technician [0] asks Adult Patient [4] to get on the table.
+Xray Technician [0] asks Adult Patient [4] to move.
+Xray Technician [0] takes an Xray Image of Adult Patient [4].
+Xray Technician [0] records [nothing] on Adult Patient [4]'s examination sheet.
+Xray Technician [0] asks Adult Patient [4] to move.
+Xray Technician [0] takes an Xray Image of Adult Patient [4].
+Xray Technician [0] records [break] on Adult Patient [4]'s examination sheet.
+X-ray Technician [0] tells [Adult Patient] [4] to wait in Xray waiting room.
+X-ray Technician [0] puts [Adult Patient] [4] in Xray waiting room wall pocket.
+Adult Patient [4] waits for a Nurse to escort him/her to examination room.
+ Patient  4 --> Signal me
+Adult Patient [3] reaches the Cashier.
+Adult Patient [3] hands over his examination sheet to the Cashier.
+Cashier receives the examination sheet from Adult Patient [3].
+Cashier reads the examination sheet of Adult Patient [3] and asks him to pay $[362]
+Adult Patient [3] pays the Cashier $.... 
+Cashier accepts $[362] from Adult Patient [3].
+Cashier gives a receipt of $[362] to Adult Patient [3].
+Adult Patient [3] receives a receipt from the Cashier.
+Adult Patient [3] leaves the doctor's office.
+Nurse [1] tells Waiting Room Nurse to give a new examination sheet.
+Waiting Room nurse gives examination sheet of patient[6] to Nurse[1]
+Nurse [1] escorts Adult Patient/Parent [6] to the examination room [3].
+Adult Patient/Parent [6] is following Nurse [1] to Examination Room [3].
+Nurse [2] tells Waiting Room Nurse to give a new examination sheet.
+Nurse:1 takes the temperature and blood pressure of Patient:6
+Nurse:1 asks Patient:6 "What Symptoms do you have?"
+Waiting Room nurse gives examination sheet of patient[7] to Nurse[2]
+Adult Patient/Parent [6] says, “My symptoms are I Hear Alien Voices."
+Nurse [2] escorts Adult Patient/Parent [7] to the examination room [0].
+Nurse [1] informs Doctor [0] that Adult Patient [6] is waiting in the examination room [3].
+Nurse [1] hands over to the Doctor [0] the examination sheet of Adult Patient [6].
+Adult Patient/Parent [7] is following Nurse [2] to Examination Room [0].
+Doctor [0] is reading the examination sheet of [Adult] Patient [6] in Examination room [3].
+Doctor [0] notes down in the sheet that Xray is needed for Adult Patient [6] in Examination room [3].
+Adult Patient [6] has been informed by Doctor [0] that he needs an Xray.
+Doctor [0] has left Examination Room [3].
+Doctor [0] is going to their office.
+Nurse:2 takes the temperature and blood pressure of Patient:7
+Nurse:2 asks Patient:7 "What Symptoms do you have?"
+Adult Patient/Parent [7] says, “My symptoms are Pain."
+Nurse [2] informs Doctor [1] that Adult Patient [7] is waiting in the examination room [0].
+Nurse [2] hands over to the Doctor [1] the examination sheet of Adult Patient [7].
+Adult Patient [6] waits for a Nurse to escort them to the Xray room.
+Doctor [1] is reading the examination sheet of [Adult] Patient [7] in Examination room [0].
+Doctor [1] diagnoses Adult Patient [7] to be fine and is leaving Examination Room [0].
+Nurse [0] escorts Adult Patient [6] to the X-ray room [0].
+Adult Patient [7] has been diagnosed by Doctor [1].
+Doctor [1] has left Examination Room [0].
+Doctor [1] is going to their office.
+Nurse [1] escorts Adult Patient [7] to Cashier.
+Adult Patient [7] enters the queue for Cashier
+Adult Patient [7] reaches the Cashier.
+Adult Patient [7] hands over his examination sheet to the Cashier.
+Nurse [1] escorts Adult Patient[4] to the e
